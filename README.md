@@ -6,9 +6,9 @@ To predict wheter a transporter will breach arrival at depot.
 ### Workflow
 #### 1.	Created a separate dataframe containing only those columns relevant to arrival_breached_at 
 
-      Columns: indent_type           
+    Columns: indent_type           
 
-  	            contract_type         
+            contract_type         
   
   		actual_freight  
   
